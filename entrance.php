@@ -28,11 +28,11 @@ include 'script-login.php';
     <meta property="og:type" content="article" />
     <meta property="og:title" content="ทางเข้า เว็บพนันบอล สามารถแทงบอล ได้อย่างรวดเร็ว และสะดวกในเวลาไม่กี่วินาที" />
     <meta property="og:description" content="ทางเข้า เว็บพนันบอล เสิร์ฟความสนุกถึงหน้าจอ ไม่ว่าท่านจะใช้มือถือ ระบบใดก็ตาม ไม่ต้องดาวน์โหลดให้ยุ่งยาก เพราะสามารถแทงบอล ได้อย่างรวดเร็ว และสะดวกในเวลาไม่กี่วินาที บริการเดิมพันแทงบอลออนไลน์ใหม่ล่าสุด ช่องทางลงชื่อเข้าใช้งาน ผ่านทางเข้าหลัก สมาชิกสามารถฝาก ถอน รวมถึงเข้าแทงบอล ผ่านหน้าจอโทรศัพท์มือถือ ได้ยังสะดวกสบาย" />
-    <meta property="og:url" content="http://xn--123-7ml3c5b.com/entrance/" />
+    <meta property="og:url" content="https://xn--123-7ml3c5b.com/entrance/" />
     <meta property="og:site_name" content="ทางเข้า เว็บพนันบอล" />
     <meta property="og:image" content="../img/entrance/123ball-entrance.webp" />
 
-    <meta property="twitter:url" content="http://xn--123-7ml3c5b.com/entrance/">
+    <meta property="twitter:url" content="https://xn--123-7ml3c5b.com/entrance/">
     <meta property="twitter:image" content="../img/entrance/123ball-entrance.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="ทางเข้า เว็บพนันบอล สามารถแทงบอล ได้อย่างรวดเร็ว และสะดวกในเวลาไม่กี่วินาที" />
@@ -40,8 +40,8 @@ include 'script-login.php';
     <meta name="twitter:site" content="เว็บพนันบอล">
     <meta name="twitter:creator" content="เว็บพนันบอล">
 
-    <link rel="canonical" href="http://xn--123-7ml3c5b.com/entrance/" />
-    <link rel="alternate" href="http://xn--123-7ml3c5b.com/entrance/" hreflang="th-TH" />
+    <link rel="canonical" href="https://xn--123-7ml3c5b.com/entrance/" />
+    <link rel="alternate" href="https://xn--123-7ml3c5b.com/entrance/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "http://xn--123-7ml3c5b.com/"
+                "item": "https://xn--123-7ml3c5b.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

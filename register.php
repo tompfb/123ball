@@ -28,11 +28,11 @@ include 'script-login.php';
     <meta property="og:type" content="article" />
     <meta property="og:title" content="สมัคร เว็บพนันบอล มีความน่าเชื่อถือ  เป็นเว็บไซต์แทงบอลออนไลน์ที่ดีที่สุด" />
     <meta property="og:description" content="สมัคร เว็บพนันบอล เริ่มต้นลงทุนในการสร้างรายได้ และรับความสนุกในการเดิมพัน สมัครแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ สะดวก รวดเร็ว และปลอดภัย ฝาก-ถอน ออโต้ไม่มีขั้นต่ำ" />
-    <meta property="og:url" content="http://xn--123-7ml3c5b.com/register/" />
+    <meta property="og:url" content="https://xn--123-7ml3c5b.com/register/" />
     <meta property="og:site_name" content="สมัคร เว็บพนันบอล" />
     <meta property="og:image" content="../img/register/123ball-register.webp" />
 
-    <meta property="twitter:url" content="http://xn--123-7ml3c5b.com/register/">
+    <meta property="twitter:url" content="https://xn--123-7ml3c5b.com/register/">
     <meta property="twitter:image" content="../img/register/123ball-register.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="สมัคร เว็บพนันบอล มีความน่าเชื่อถือ  เป็นเว็บไซต์แทงบอลออนไลน์ที่ดีที่สุด" />
@@ -40,8 +40,8 @@ include 'script-login.php';
     <meta name="twitter:site" content="เว็บพนันบอล">
     <meta name="twitter:creator" content="เว็บพนันบอล">
 
-    <link rel="canonical" href="http://xn--123-7ml3c5b.com/register/" />
-    <link rel="alternate" href="http://xn--123-7ml3c5b.com/register/" hreflang="th-TH" />
+    <link rel="canonical" href="https://xn--123-7ml3c5b.com/register/" />
+    <link rel="alternate" href="https://xn--123-7ml3c5b.com/register/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "http://xn--123-7ml3c5b.com/"
+                "item": "https://xn--123-7ml3c5b.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

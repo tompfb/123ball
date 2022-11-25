@@ -37,11 +37,11 @@ if ($key_search) {
     <meta property="og:type" content="website" />
     <meta property="og:title" content="เว็บพนันบอล วางเดิมพันฟุตบอลโลก 2022 กีฬาออนไลน์ที่ดีที่สุด" />
     <meta property="og:description" content="เว็บพนันบอล เปิดให้บริการเดิมพัน กีฬาออนไลน์ที่ดีที่สุด การเดิมพันกีฬา เป็นสิ่งที่คนไทยชื่นชอบ  พนันบอลออนไลน์ เปิดรับแทงบอล เข้าใช้งานผ่านระบบ เครือข่ายอินเทอร์เน็ตได้ง่าย มีความสะดวกสบาย เนื่องจากไม่ต้องเดินทาง ใช้งานได้ทุกที่ ทุกเวลา ผ่านมือถือ แท็บเล็ต หรือคอมพิวเตอร์" />
-    <meta property="og:url" content="http://xn--123-7ml3c5b.com/" />
+    <meta property="og:url" content="https://xn--123-7ml3c5b.com/" />
     <meta property="og:site_name" content="เว็บพนันบอล" />
     <meta property="og:image" content="./img/logo-123ball.webp" />
 
-    <meta property="twitter:url" content="http://xn--123-7ml3c5b.com/">
+    <meta property="twitter:url" content="https://xn--123-7ml3c5b.com/">
     <meta property="twitter:image" content="./img/logo-123ball.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="เว็บพนันบอล วางเดิมพันฟุตบอลโลก 2022 กีฬาออนไลน์ที่ดีที่สุด" />
@@ -49,8 +49,8 @@ if ($key_search) {
     <meta name="twitter:site" content="เว็บพนันบอล">
     <meta name="twitter:creator" content="เว็บพนันบอล">
 
-    <link rel="canonical" href="http://xn--123-7ml3c5b.com/" />
-    <link rel="alternate" href="http://xn--123-7ml3c5b.com/" hreflang="th-TH" />
+    <link rel="canonical" href="https://xn--123-7ml3c5b.com/" />
+    <link rel="alternate" href="https://xn--123-7ml3c5b.com/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="./favicon.webp" type="image/x-icon" />
     <link rel="icon" href="./favicon.webp" type="image/x-icon" />
@@ -61,8 +61,8 @@ if ($key_search) {
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "url": "http://xn--123-7ml3c5b.com/",
-            "logo": "http://xn--123-7ml3c5b.com/img/logo-123ball.webp"
+            "url": "https://xn--123-7ml3c5b.com/",
+            "logo": "https://xn--123-7ml3c5b.com/img/logo-123ball.webp"
         }
     </script>
     <script type="application/ld+json">
@@ -77,21 +77,21 @@ if ($key_search) {
                     "/html/head/meta[@name='description']/@content"
                 ]
             },
-            "url": "#/"
+            "url": "https://xn--123-7ml3c5b.com/"
         }
     </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "url": "http://xn--123-7ml3c5b.com/",
+            "url": "https://xn--123-7ml3c5b.com/",
             "name": "เว็บพนันบอล",
             "description": "เว็บพนันบอล วางเดิมพันฟุตบอลโลก 2022  กีฬาออนไลน์ที่ดีที่สุด",
             "potentialAction": [{
                 "@type": "SearchAction",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "http://xn--123-7ml3c5b.com/?s={search_term_string}"
+                    "urlTemplate": "https://xn--123-7ml3c5b.com/?s={search_term_string}"
                 },
                 "query-input": "required name=search_term_string"
             }]
@@ -113,16 +113,16 @@ if ($key_search) {
             "@context": "https://schema.org",
             "@type": "Store",
             "image": [
-                "http://xn--123-7ml3c5b.com/img/logo-123ball.webp",
-                "http://xn--123-7ml3c5b.com/img/banner-123ball.webp",
-                "http://xn--123-7ml3c5b.com/img/123ball-img01.webp"
+                "https://xn--123-7ml3c5b.com/img/logo-123ball.webp",
+                "https://xn--123-7ml3c5b.com/img/banner-123ball.webp",
+                "https://xn--123-7ml3c5b.com/img/123ball-img01.webp"
             ],
             "name": "เว็บพนันบอล",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "TH"
             },
-            "url": "http://xn--123-7ml3c5b.com/",
+            "url": "https://xn--123-7ml3c5b.com/",
             "priceRange": "฿฿฿",
             "telephone": "+6696-921-9245",
             "openingHoursSpecification": [{

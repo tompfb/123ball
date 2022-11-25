@@ -14,8 +14,8 @@ $category_name = $_GET["name"];
     <meta name="robots" content="index,follow" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="canonical" href="http://xn--123-7ml3c5b.com/category/<?php echo $category_name; ?>" />
-    <link rel="alternate" href="http://xn--123-7ml3c5b.com/category/<?php echo $category_name; ?>" hreflang="th-TH" />
+    <link rel="canonical" href="https://xn--123-7ml3c5b.com/category/<?php echo $category_name; ?>" />
+    <link rel="alternate" href="https://xn--123-7ml3c5b.com/category/<?php echo $category_name; ?>" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -31,12 +31,12 @@ $category_name = $_GET["name"];
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "http://xn--123-7ml3c5b.com/"
+                "item": "https://xn--123-7ml3c5b.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "บทความทั้งหมด",
-                "item": "http://xn--123-7ml3c5b.com/all-articles/"
+                "item": "https://xn--123-7ml3c5b.com/all-articles/"
             }],
             {
                 "@type": "ListItem",

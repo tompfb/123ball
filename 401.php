@@ -20,7 +20,7 @@
 <?php include('./component/header.php'); ?>
     <article class="err-404 ">
         <section class="error container">
-            <strong>ERROR 404</strong>
+            <strong>! <br> ERROR 404</strong>
             <p class="white mb-0">page not found !!!!</p>
         </section>
     </article>

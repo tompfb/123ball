@@ -61,12 +61,12 @@ $resultrow = mysqli_fetch_array($allArticle);
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "http://xn--123-7ml3c5b.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "บทความทั้งหมด",
-                "item": "#/all-articles/"
+                "item": "http://xn--123-7ml3c5b.com/all-articles/"
             }],
             {
                 "@type": "ListItem",

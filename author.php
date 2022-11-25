@@ -26,12 +26,12 @@ if (isset($Fname)) {
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="index,follow" />
-    <link rel="canonical" href="#/author/<?php echo $a_name ?>" />
-    <link rel="alternate" href="#/author/<?php echo $a_name ?>" hreflang="th-TH" />
+    <link rel="canonical" href="http://xn--123-7ml3c5b.com/author/<?php echo $a_name ?>" />
+    <link rel="alternate" href="http://xn--123-7ml3c5b.com/author/<?php echo $a_name ?>" hreflang="th-TH" />
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="author" />
     <meta property="og:title" content="<?php echo $a_name ?>, Author at เว็บพนันบอล" />
-    <meta property="og:url" content="#/author/<?php echo $a_name ?>" />
+    <meta property="og:url" content="http://xn--123-7ml3c5b.com/author/<?php echo $a_name ?>" />
     <meta property="og:site_name" content="เว็บพนันบอล" />
     <meta property="og:image" content="../img/logo-123ball.webp" />
     <meta name="twitter:card" content="summary_large_image" />

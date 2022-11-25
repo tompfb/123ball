@@ -18,8 +18,8 @@ include 'script-login.php';
     <link rel="apple-touch-icon" href="../favicon.webp" />
 
     <?php include('./link.php'); ?>
-    <link rel="canonical" href="#/all-articles/" />
-    <link rel="alternate" href="#/all-articles/" hreflang="th-TH" />
+    <link rel="canonical" href="http://xn--123-7ml3c5b.com/all-articles/" />
+    <link rel="alternate" href="http://xn--123-7ml3c5b.com/all-articles/" hreflang="th-TH" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 
 </head>

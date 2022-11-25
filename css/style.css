@@ -230,6 +230,12 @@ p u {
   margin-right: 40px;
   color: #224472;
 }
+.navlinks a:hover{
+  text-decoration: underline;
+  color: #ff0000;
+  text-shadow: 0 0 10px #ffffff;
+  transition: 0.3s ease-in-out;
+}
 .navlinks a:last-child {
   font-size: 2em !important;
   position: absolute;
@@ -592,6 +598,19 @@ p u {
   overflow-x: hidden;
   transition: 0.6s;
 }
+.err-404 .error{
+min-height: 80vh;
+background-color: #000000;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+.err-404 .error strong{
+  font-size: 4em;
+  color: #ff0000;
+}
 
 @media (max-width: 1395px) {
   .main-form-login label {
@@ -608,6 +627,55 @@ p u {
 }
 
 @media (max-width: 991px) {
+  .navlinks {
+    display: none;
+  }
+  .open_navber_moblie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    top: 15px;
+    right: 10px;
+    font-size: 3em;
+    background-image: linear-gradient(to right, #c20000, #bd8a00);
+
+    border-radius: 10px;
+    color: #f1f1f1;
+    box-shadow: 0 0 10px #b48a00;
+  }
+  .sidenav-slide {
+    display: block;
+    padding-top: 4em !important;
+  }
+  .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 40px;
+    color: white;
+    display: flex;
+    cursor: pointer;
+  }
+  .sidenav {
+    padding: 1em 30px 0 30px;
+  }
+
+  .sidenav a {
+    padding: 8px 8px 8px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid white;
+    margin: 20px 0;
+  }
   .card-logo {
     position: relative;
   }
@@ -671,11 +739,13 @@ p u {
     margin-right: 0;
     margin: 0 10px;
   }
+  .card-fluid {
+    padding: 10px !important;
+    margin-top: 0 !important;
+  }
 }
 @media (max-width: 767px) {
-  .navlinks {
-    display: none;
-  }
+
   .bg-main-text {
     background-image: none;
     text-align: center;
@@ -688,54 +758,6 @@ p u {
     padding: 10px 0 10px 0;
     color: #fdf001;
   }
-  .card-fluid {
-    padding: 10px !important;
-    margin-top: 0 !important;
-  }
-  .open_navber_moblie {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    cursor: pointer;
-    width: 50px;
-    height: 50px;
-    z-index: 1;
-    top: 15px;
-    right: 10px;
-    font-size: 3em;
-    background-image: linear-gradient(to right, #c20000, #bd8a00);
 
-    border-radius: 10px;
-    color: #f1f1f1;
-    box-shadow: 0 0 10px #b48a00;
-  }
-  .sidenav-slide {
-    display: block;
-    padding-top: 4em !important;
-  }
-  .closebtn {
-    position: absolute;
-    top: 0;
-    right: 25px;
-    font-size: 40px;
-    color: white;
-    display: flex;
-    cursor: pointer;
-  }
-  .sidenav {
-    padding: 1em 30px 0 30px;
-  }
-
-  .sidenav a {
-    padding: 8px 8px 8px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 500;
-    color: white;
-    display: block;
-    width: 100%;
-    border-bottom: 1px solid white;
-    margin: 20px 0;
-  }
+ 
 }

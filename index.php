@@ -37,11 +37,11 @@ if ($key_search) {
     <meta property="og:type" content="website" />
     <meta property="og:title" content="เว็บพนันบอล วางเดิมพันฟุตบอลโลก 2022 กีฬาออนไลน์ที่ดีที่สุด" />
     <meta property="og:description" content="เว็บพนันบอล เปิดให้บริการเดิมพัน กีฬาออนไลน์ที่ดีที่สุด การเดิมพันกีฬา เป็นสิ่งที่คนไทยชื่นชอบ  พนันบอลออนไลน์ เปิดรับแทงบอล เข้าใช้งานผ่านระบบ เครือข่ายอินเทอร์เน็ตได้ง่าย มีความสะดวกสบาย เนื่องจากไม่ต้องเดินทาง ใช้งานได้ทุกที่ ทุกเวลา ผ่านมือถือ แท็บเล็ต หรือคอมพิวเตอร์" />
-    <meta property="og:url" content="#/" />
+    <meta property="og:url" content="http://xn--123-7ml3c5b.com/" />
     <meta property="og:site_name" content="เว็บพนันบอล" />
     <meta property="og:image" content="./img/logo-123ball.webp" />
 
-    <meta property="twitter:url" content="#/">
+    <meta property="twitter:url" content="http://xn--123-7ml3c5b.com/">
     <meta property="twitter:image" content="./img/logo-123ball.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="เว็บพนันบอล วางเดิมพันฟุตบอลโลก 2022 กีฬาออนไลน์ที่ดีที่สุด" />
@@ -49,8 +49,8 @@ if ($key_search) {
     <meta name="twitter:site" content="เว็บพนันบอล">
     <meta name="twitter:creator" content="เว็บพนันบอล">
 
-    <link rel="canonical" href="#/" />
-    <link rel="alternate" href="#/" hreflang="th-TH" />
+    <link rel="canonical" href="http://xn--123-7ml3c5b.com/" />
+    <link rel="alternate" href="http://xn--123-7ml3c5b.com/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="./favicon.webp" type="image/x-icon" />
     <link rel="icon" href="./favicon.webp" type="image/x-icon" />
@@ -61,8 +61,8 @@ if ($key_search) {
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "url": "#/",
-            "logo": "#/img/logo-123ball.webp"
+            "url": "http://xn--123-7ml3c5b.com/",
+            "logo": "http://xn--123-7ml3c5b.com/img/logo-123ball.webp"
         }
     </script>
     <script type="application/ld+json">
@@ -84,14 +84,14 @@ if ($key_search) {
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "url": "#/",
+            "url": "http://xn--123-7ml3c5b.com/",
             "name": "เว็บพนันบอล",
             "description": "เว็บพนันบอล วางเดิมพันฟุตบอลโลก 2022  กีฬาออนไลน์ที่ดีที่สุด",
             "potentialAction": [{
                 "@type": "SearchAction",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "#/?s={search_term_string}"
+                    "urlTemplate": "http://xn--123-7ml3c5b.com/?s={search_term_string}"
                 },
                 "query-input": "required name=search_term_string"
             }]
@@ -113,16 +113,16 @@ if ($key_search) {
             "@context": "https://schema.org",
             "@type": "Store",
             "image": [
-                "#/img/logo-123ball.webp",
-                "#/img/banner-123ball.webp",
-                "#/img/123ball-img01.webp"
+                "http://xn--123-7ml3c5b.com/img/logo-123ball.webp",
+                "http://xn--123-7ml3c5b.com/img/banner-123ball.webp",
+                "http://xn--123-7ml3c5b.com/img/123ball-img01.webp"
             ],
             "name": "เว็บพนันบอล",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "TH"
             },
-            "url": "#/",
+            "url": "http://xn--123-7ml3c5b.com/",
             "priceRange": "฿฿฿",
             "telephone": "+6696-921-9245",
             "openingHoursSpecification": [{
@@ -171,10 +171,10 @@ if ($key_search) {
 
                     </div>
                     <div class="col-lg-9">
-                        <form method="POST" class="main-form-login">
-                            <input type="text" name="user" class="ipt-username" placeholder="Username/ชื่อผู้ใช้" required>
+                        <form method="POST" class="main-form-login" onSubmit="JavaScript:return fncSubmit();">
+                            <input type="text" name="name" class="ipt-username" placeholder="Username/ชื่อผู้ใช้" required>
                             <input type="password" name="pass" class="ipt-password" placeholder="Password/รหัสผ่าน" required>
-                            <button type="submit" name="login" class="btn-login"><img data-src="./img/login.webp" class="lazy img-fluid" width="86" height="58" alt="login"></button>
+                            <button type="submit" name="create-post" class="btn-login"><img data-src="./img/login.webp" class="lazy img-fluid" width="86" height="58" alt="login"></button>
                             <input type="radio" id="savepass" name="fav_language" value="จำรหัสผ่าน">
                             <label for="savepass">จำรหัสผ่าน</label>
                             <label for="gotpass">ลืมรหัสผ่าน?</label>
@@ -189,7 +189,7 @@ if ($key_search) {
                 <a href="./">หน้าแรก</a>
                 <a href="./entrance/">ทางเข้า</a>
                 <a href="./register/">สมัครสมาชิก</a>
-                <a href="">สมัครผ่านไลน์</a>
+                <a href="https://line.me/R/ti/p/%40607dcoex">สมัครผ่านไลน์</a>
             </div>
         </div>
     </header>
@@ -202,7 +202,7 @@ if ($key_search) {
                 <a href="./">เว็บพนันบอล</a>
                 <a href="./entrance/">ทางเข้า</a>
                 <a href="./register/">สมัครสมาชิก</a>
-                <a href="">สมัครผ่านไลน์</a>
+                <a href="https://line.me/R/ti/p/%40607dcoex">สมัครผ่านไลน์</a>
             </div>
         </nav>
     </section>

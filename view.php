@@ -70,10 +70,10 @@ if (isset($url_articles_seo)) {
     <meta property="og:title" content="<?php echo $topic_name  ?>" />
     <meta property="og:description" content="<?php echo $descripion_seo  ?>" />
     <meta property="og:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>" />
-    <meta property="og:url" content="#/view/<?php echo $encode ?>" />
+    <meta property="og:url" content="http://xn--123-7ml3c5b.com/view/<?php echo $encode ?>" />
     <meta property="og:site_name" content="เว็บพนันบอล" />
 
-    <meta property="twitter:url" content="#/view/<?php echo $encode ?>">
+    <meta property="twitter:url" content="http://xn--123-7ml3c5b.com/view/<?php echo $encode ?>">
     <meta property="twitter:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>">
     <meta name="twitter:title" content="<?php echo $topic_name ?>" />
     <meta name="twitter:description" content="<?php echo $descripion_seo ?>" />
@@ -81,8 +81,8 @@ if (isset($url_articles_seo)) {
     <meta name="twitter:creator" content="เว็บพนันบอล" />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <link rel="alternate" href="#/<?php echo $encode ?>" hreflang="th-TH" />
-    <link rel="canonical" href="#/<?php echo $encode ?>" />
+    <link rel="alternate" href="http://xn--123-7ml3c5b.com/<?php echo $encode ?>" hreflang="th-TH" />
+    <link rel="canonical" href="http://xn--123-7ml3c5b.com/<?php echo $encode ?>" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -95,25 +95,25 @@ if (isset($url_articles_seo)) {
             "@type": "NewsArticle",
             "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "#/view/<?php echo $encode ?>"
+                "@id": "http://xn--123-7ml3c5b.com/view/<?php echo $encode ?>"
             },
             "headline": "<?php echo $topic_name  ?>",
             "image": [
-                "#/backend/uploads/article-img/<?php echo $image_banner  ?>"
+                "http://xn--123-7ml3c5b.com/backend/uploads/article-img/<?php echo $image_banner  ?>"
             ],
             "datePublished": "<?php echo $create_at ?>",
             "dateModified": "<?php echo $update_at ?>",
             "author": {
                 "@type": "Person",
                 "name": "เว็บพนันบอล",
-                "url": "#/view/<?php echo $encode ?>"
+                "url": "http://xn--123-7ml3c5b.com/view/<?php echo $encode ?>"
             },
             "publisher": {
                 "@type": "Organization",
                 "name": "เว็บพนันบอล",
                 "logo": {
                     "@type": "ImageObject",
-                    "url": "#/view/<?php echo $encode ?>"
+                    "url": "http://xn--123-7ml3c5b.com/view/<?php echo $encode ?>"
                 }
             }
         }
@@ -126,12 +126,12 @@ if (isset($url_articles_seo)) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "http://xn--123-7ml3c5b.com/"
             }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "บทความทั้งหมด",
-                "item": "#/all-articles/"
+                "item": "http://xn--123-7ml3c5b.com/all-articles/"
             }],
             {
                 "@type": "ListItem",
@@ -208,9 +208,9 @@ if (isset($url_articles_seo)) {
                         $chacks_query = mysqli_query($conn, $chack_tags) or die("error in query:$chack_tags" . mysqli_error($conn));
                         ?>
                         <div class="my-2 socail">
-                            <a href="http://www.facebook.com/sharer.php?u=#/view/<?php echo $encode ?>" target="_blank" class="share-facebook"><i class="fab fa-facebook-f"></i>แชร์</a>
-                            <a href="http://twitter.com/share?text=<?php echo $topic_name  ?> &url=#/view/<?php echo $encode ?> &hashtags=<?php while ($rs = mysqli_fetch_array($chacks_query)) { ?><?php echo $rs['tag_url']; ?>,<?php } ?>" target="_blank" class="share-twitter"><i class="fab fa-twitter"></i>ทวีต</a>
-                            <a href="https://social-plugins.line.me/lineit/share?url=#/view/<?php echo $encode ?>" target="_blank" class="share-line"><i class="fab fa-line"></i>แชร์</a>
+                            <a href="http://www.facebook.com/sharer.php?u=http://xn--123-7ml3c5b.com/view/<?php echo $encode ?>" target="_blank" class="share-facebook"><i class="fab fa-facebook-f"></i>แชร์</a>
+                            <a href="http://twitter.com/share?text=<?php echo $topic_name  ?> &url=http://xn--123-7ml3c5b.com/view/<?php echo $encode ?> &hashtags=<?php while ($rs = mysqli_fetch_array($chacks_query)) { ?><?php echo $rs['tag_url']; ?>,<?php } ?>" target="_blank" class="share-twitter"><i class="fab fa-twitter"></i>ทวีต</a>
+                            <a href="https://social-plugins.line.me/lineit/share?url=http://xn--123-7ml3c5b.com/view/<?php echo $encode ?>" target="_blank" class="share-line"><i class="fab fa-line"></i>แชร์</a>
                         </div>
                         <div class="potsnew">
                             <span class="date-news">

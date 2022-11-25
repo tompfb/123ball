@@ -12,14 +12,14 @@
 
                 </div>
                 <div class="col-lg-9">
-                    <form method="POST" class="main-form-login">
-                        <input type="text" name="user" class="ipt-username" placeholder="Username/ชื่อผู้ใช้" required>
-                        <input type="password" name="pass" class="ipt-password" placeholder="Password/รหัสผ่าน" required>
-                        <button type="submit" name="login" class="btn-login"><img data-src="../img/login.webp" class="lazy img-fluid" width="86" height="58" alt="login"></button>
-                        <input type="radio" id="savepass" name="fav_language" value="จำรหัสผ่าน">
-                        <label for="savepass">จำรหัสผ่าน</label>
-                        <label for="gotpass">ลืมรหัสผ่าน?</label>
-                    </form>
+                <form method="POST" class="main-form-login" onSubmit="JavaScript:return fncSubmit();">
+                            <input type="text" name="name" class="ipt-username" placeholder="Username/ชื่อผู้ใช้" required>
+                            <input type="password" name="pass" class="ipt-password" placeholder="Password/รหัสผ่าน" required>
+                            <button type="submit" name="create-post" class="btn-login"><img data-src="../img/login.webp" class="lazy img-fluid" width="86" height="58" alt="login"></button>
+                            <input type="radio" id="savepass" name="fav_language" value="จำรหัสผ่าน">
+                            <label for="savepass">จำรหัสผ่าน</label>
+                            <label for="gotpass">ลืมรหัสผ่าน?</label>
+                        </form>
                 </div>
             </div>
         </div>
@@ -30,7 +30,7 @@
             <a href="../">หน้าแรก</a>
             <a href="../entrance/">ทางเข้า</a>
             <a href="../register/">สมัครสมาชิก</a>
-            <a href="">สมัครผ่านไลน์</a>
+            <a href="https://line.me/R/ti/p/%40607dcoex">สมัครผ่านไลน์</a>
         </div>
     </div>
 </header>
